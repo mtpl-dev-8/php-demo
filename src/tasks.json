@@ -1,0 +1,10 @@
+[
+    {
+        "text": "php setup",
+        "completed": false
+    },
+    {
+        "text": "ubuntu setup",
+        "completed": true
+    }
+]
